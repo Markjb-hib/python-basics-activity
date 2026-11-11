@@ -23,7 +23,7 @@ a, b = b, a
 # 3. Which of these are valid Python variable names?
 #    Put ONLY the valid ones in the list, in the same order they appear.
 candidates = ["my_var", "2nd_place", "_hidden", "first-name", "Total", "for", "user name", "x1"]
-valid_names = ["my-var", "_hidden", "Total", "x1"]  
+valid_names = ["my_var", "_hidden", "Total", "x1"]  
 
 # 4. One line that assigns the value 0 to x, y and z at the same time.
 # TODO: write it here, e.g. x = ...
